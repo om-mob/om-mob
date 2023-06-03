@@ -56,7 +56,7 @@ I'm a Computer Engineering student passionate about technology and engineering. 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-[linkedin-profile-link]: www.linkedin.com/in/omar-mobarak
+[linkedin-profile-link]: https://www.linkedin.com/in/omar-mobarak
 [gmail-account]: mailto:omar.h.m.mobarak@gmail.com
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [gmail-badge]: https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white
